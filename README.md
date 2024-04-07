@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software engineer passionate about designing, developing, and optimizing software solutions.</p>
+<p align="left">Passionate Software Engineering Student | Building Innovative Software Solutions | Dedicated to Continuous Learning & Technological Advancements #SoftwareEngineer #Innovation</p>
 
 ###
 
